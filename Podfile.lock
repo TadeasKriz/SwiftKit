@@ -1,0 +1,25 @@
+PODS:
+  - Alamofire (3.2.1)
+  - HTTPStatusCodes (2.0.2)
+  - Nimble (3.0.0)
+  - Quick (0.8.0)
+  - SwiftKitStaging (0.1.2)
+  - SwiftyJSON (2.3.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.0)
+  - HTTPStatusCodes (~> 2.0.0)
+  - Nimble (~> 3.0.0)
+  - Quick (~> 0.8.0)
+  - SwiftKitStaging
+  - SwiftyJSON (~> 2.3.0)
+
+SPEC CHECKSUMS:
+  Alamofire: f11d8624a05f5d39e0c99309b3e600a3ba64298a
+  HTTPStatusCodes: 60713f0bc67cd1a03ebe2740c8a765788c720ef5
+  Nimble: 4c353d43735b38b545cbb4cb91504588eb5de926
+  Quick: 563d0f6ec5f72e394645adb377708639b7dd38ab
+  SwiftKitStaging: c6426fc38163d3e66e1dedc3783e94c2d303610c
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+
+COCOAPODS: 0.39.0

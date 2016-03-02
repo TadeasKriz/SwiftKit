@@ -1,0 +1,4 @@
+github "Alamofire/Alamofire" "3.2.1"
+github "SwiftKit/Staging" "0.1.2"
+github "rhodgkins/SwiftHTTPStatusCodes" "2.0.2"
+github "SwiftyJSON/SwiftyJSON" "2.3.3"
